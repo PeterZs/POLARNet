@@ -23,9 +23,9 @@ The project is intended for research and dataset preparation workflows, especial
 
 ## HDR Download
 
-'''
+```bash
 bash hdr_download/download.sh
-'''
+```
 
 **Note**：Before running the script, please update the paths to match your local environment. The download URLs for 1K and 4K HDR files are provided in the corresponding .txt files.
 

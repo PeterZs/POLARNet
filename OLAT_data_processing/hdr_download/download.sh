@@ -1,0 +1,1 @@
+aria2c -x 16 -s 16 -j 32 -c -i polyhaven_hdr_4k.hdr.txt -d /your_path
